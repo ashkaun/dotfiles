@@ -1,10 +1,19 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": false,
+	"drag_text": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -20,22 +29,29 @@
 		".git",
 		"node_modules"
 	],
-	"font_face": "Monaco",
-	"font_size": 13,
+	"font_face": "Source Code Pro",
+	"font_size": 12,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
-	"line_padding_bottom": 5,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"remember_open_files": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80
 	],
-	"show_encoding": true,
-	"show_line_endings": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"status_bar_brighter": true,
+	"tab_size": 4,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }
