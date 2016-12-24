@@ -42,7 +42,7 @@ brew 'jq'
 cask '1password'
 cask 'alfred'
 cask 'amethyst'
-cask 'bettertouchtool'
+# cask 'bettertouchtool'
 cask 'calibre'
 cask 'cyberduck'
 cask 'dropbox'
@@ -61,6 +61,7 @@ cask 'yubikey-personalization-gui'
 # App store apps
 mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Amphetamine', id: 937984704
+mas 'BetterSnapTool', id: 417375580
 mas 'iMovie', id: 408981434
 mas 'Pages', id: 409201541
 mas 'GarageBand', id: 682658836
